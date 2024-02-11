@@ -17,12 +17,16 @@
 		E82F0EA52B4C1EE600DD4D5C /* Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E82F0EC62B6821AE00DD4D5C /* Seminar1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Seminar1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E82F0EC72B6850D500DD4D5C /* Seminar1Dz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Seminar1Dz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E82F0ECA2B6C2AFD00DD4D5C /* Seminar2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Seminar2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E82F0ECC2B78CA5100DD4D5C /* Seminar4Dz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Seminar4Dz.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E82F0E972B3F50B000DD4D5C = {
 			isa = PBXGroup;
 			children = (
+				E82F0ECC2B78CA5100DD4D5C /* Seminar4Dz.playground */,
+				E82F0ECA2B6C2AFD00DD4D5C /* Seminar2.playground */,
 				E82F0EC72B6850D500DD4D5C /* Seminar1Dz.playground */,
 				E82F0EC62B6821AE00DD4D5C /* Seminar1.playground */,
 				E82F0EA52B4C1EE600DD4D5C /* Exercises.playground */,
